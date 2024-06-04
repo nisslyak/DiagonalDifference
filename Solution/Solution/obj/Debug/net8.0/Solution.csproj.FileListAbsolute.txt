@@ -12,3 +12,4 @@ C:\Users\aapod\source\repos\DiagonalDifference\Solution\Solution\obj\Debug\net8.
 C:\Users\aapod\source\repos\DiagonalDifference\Solution\Solution\obj\Debug\net8.0\Solution.pdb
 C:\Users\aapod\source\repos\DiagonalDifference\Solution\Solution\obj\Debug\net8.0\Solution.genruntimeconfig.cache
 C:\Users\aapod\source\repos\DiagonalDifference\Solution\Solution\obj\Debug\net8.0\ref\Solution.dll
+C:\Users\aapod\source\repos\DiagonalDifference\Solution\Solution\obj\Debug\net8.0\Solution.sourcelink.json
